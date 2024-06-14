@@ -13,3 +13,6 @@ To use this repo, first change the configs.py file to include the prompts for yo
 Then, add any .csv files you want to the "files" folder to store your outputs as they go through the generation process. 
 <br> <br>
 Change the variable names in the main.py file to reflect the changes you made to the configs and the files folder. Then, run the main.py file.
+
+<br> <br> 
+If your validation process is different from the above, then you can take out or add the run_val function to accomodate your process. 
